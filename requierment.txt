@@ -1,0 +1,4 @@
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+numpy==1.23.0
+tensorflow
